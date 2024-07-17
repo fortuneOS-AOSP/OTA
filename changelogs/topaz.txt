@@ -1,0 +1,11 @@
+Date: 17/07/2024
+
+Changelogs:
+• Initial release
+
+Note:
+• Use fw OS1.0.5.0.UMGMIXM for topaz
+
+Credits:
+• @dblenk9
+• SM6225-AD Development
