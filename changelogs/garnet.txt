@@ -1,0 +1,12 @@
+Date: 18/07/2024
+
+Changelogs:
+• Initial release
+
+Note:
+• Don't forget flash fw
+
+Credits:
+• @grewal Resource
+• @Kizziama @hefatss for help
+• SM7435 Development Hub
