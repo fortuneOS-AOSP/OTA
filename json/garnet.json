@@ -1,12 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1721266062,
-      "filename": "FRTN.OS-14.0-Usagi-garnet-18072024-0606.signed.zip",
-      "id": "2f0fbafb82b82fecedaea65012af6103562dd8186f45acce9c25177931fc07f3",
-      "size": 2399920482,
-      "url": "https://sourceforge.net/projects/fortuneos/files/garnet/FRTN.OS-14.0-Usagi-garnet-18072024-0606.signed.zip/download",
-      "version": "1.0"
+      "datetime": 1729353008,
+      "filename": "FortuneOS_garnet-15.0-20241019-1554.zip",
+      "id": "dded224c0f1a089fa6eb4cc4650d598b704637160156ef8d8c1bf6de4c6b60df",
+      "romtype": "release",
+      "size": 2553624190,
+      "url": "https://sourceforge.net/projects/fortuneos/files/garnet/FortuneOS_garnet-15.0-20241019-1554.zip/download",
+      "version": "15"
     }
   ]
 }

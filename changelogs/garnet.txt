@@ -1,12 +1,11 @@
-Date: 18/07/2024
+Date: 19/10/2024
 
 Changelogs:
 • Initial release
 
 Note:
-• Don't forget flash fw
+• Use latest fw for your region
 
 Credits:
 • @grewal Resource
-• @Kizziama @hefatss for help
 • SM7435 Development Hub
